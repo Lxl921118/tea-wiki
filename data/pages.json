@@ -1,0 +1,403 @@
+{
+  "updated": "2026-11-16",
+  "categories": [
+    {
+      "id": "drink",
+      "name": "飲品",
+      "icon": "🧋",
+      "desc": "一杯完整的飲料或甜品飲",
+      "count": 2
+    },
+    {
+      "id": "tea",
+      "name": "茶底",
+      "icon": "🍃",
+      "desc": "茶種與茶樹品種",
+      "count": 2
+    },
+    {
+      "id": "topping",
+      "name": "配料",
+      "icon": "⚫",
+      "desc": "加進飲料裡的料",
+      "count": 1
+    },
+    {
+      "id": "term",
+      "name": "點餐術語",
+      "icon": "📝",
+      "desc": "菜單和點餐時會遇到的詞",
+      "count": 1
+    },
+    {
+      "id": "compare",
+      "name": "比較",
+      "icon": "⚖️",
+      "desc": "兩樣容易搞混的東西並排比較",
+      "count": 3
+    },
+    {
+      "id": "culture",
+      "name": "文化與歷史",
+      "icon": "📜",
+      "desc": "起源、典故與流行現象",
+      "count": 2
+    }
+  ],
+  "pages": [
+    {
+      "slug": "bubble-milk-tea",
+      "path": "wiki/drink/bubble-milk-tea.md",
+      "title": "珍珠奶茶",
+      "aka": [
+        "波霸奶茶",
+        "珍奶",
+        "粉圓奶茶",
+        "Bubble tea"
+      ],
+      "category": "drink",
+      "summary": "把粉圓加進奶茶的台灣茶飲，1980年代誕生，現在流行到全世界。",
+      "sources": [
+        "raw/2026-11-16-wikipedia-bubble-tea.md",
+        "raw/2026-11-16-wikipedia-tapioca-balls.md"
+      ],
+      "updated": "2026-11-16",
+      "links": [
+        "tapioca-pearl",
+        "fresh-milk-vs-creamer",
+        "boba",
+        "origin-dispute",
+        "bubble-tea-worldwide",
+        "pearl-vs-boba"
+      ],
+      "backlinks": [
+        "fresh-milk-vs-creamer",
+        "pearl-vs-boba",
+        "bubble-tea-worldwide",
+        "origin-dispute",
+        "frog-lays-eggs",
+        "boba",
+        "tapioca-pearl"
+      ]
+    },
+    {
+      "slug": "frog-lays-eggs",
+      "path": "wiki/drink/frog-lays-eggs.md",
+      "title": "青蛙下蛋",
+      "aka": [],
+      "category": "drink",
+      "summary": "士林夜市出名的粉圓甜品，因煮熟的粉圓像青蛙卵而得名。",
+      "sources": [
+        "raw/2026-11-16-wikipedia-tapioca-balls.md"
+      ],
+      "updated": "2026-11-16",
+      "links": [
+        "tapioca-pearl",
+        "origin-dispute",
+        "bubble-milk-tea"
+      ],
+      "backlinks": [
+        "fresh-milk-vs-creamer",
+        "origin-dispute",
+        "tapioca-pearl"
+      ]
+    },
+    {
+      "slug": "jin-xuan",
+      "path": "wiki/tea/jin-xuan.md",
+      "title": "金萱",
+      "aka": [
+        "台茶12號",
+        "27仔"
+      ],
+      "category": "tea",
+      "summary": "1981年育成的台灣茶樹品種，以奶香和花香出名。",
+      "sources": [
+        "raw/2026-11-16-wikipedia-jin-xuan.md"
+      ],
+      "updated": "2026-11-16",
+      "links": [
+        "jinxuan-vs-ruby",
+        "ruby-black-tea"
+      ],
+      "backlinks": [
+        "jinxuan-vs-ruby",
+        "ruby-black-tea"
+      ]
+    },
+    {
+      "slug": "ruby-black-tea",
+      "path": "wiki/tea/ruby-black-tea.md",
+      "title": "紅玉紅茶",
+      "aka": [
+        "台茶18號",
+        "紅玉"
+      ],
+      "category": "tea",
+      "summary": "阿薩姆與台灣山茶雜交的紅茶品種，帶肉桂和薄荷香，人稱「台灣香」。",
+      "sources": [
+        "raw/2026-11-16-wikipedia-ruby-black-tea.md"
+      ],
+      "updated": "2026-11-16",
+      "links": [
+        "jinxuan-vs-ruby",
+        "jin-xuan"
+      ],
+      "backlinks": [
+        "jinxuan-vs-ruby",
+        "jin-xuan"
+      ]
+    },
+    {
+      "slug": "tapioca-pearl",
+      "path": "wiki/topping/tapioca-pearl.md",
+      "title": "粉圓",
+      "aka": [
+        "珍珠",
+        "波霸",
+        "珍珠粉圓"
+      ],
+      "category": "topping",
+      "summary": "用澱粉做的小圓球，煮熟後晶瑩剔透，就是珍珠奶茶裡的「珍珠」。",
+      "sources": [
+        "raw/2026-11-16-wikipedia-tapioca-balls.md",
+        "raw/2026-11-16-wikipedia-bubble-tea.md"
+      ],
+      "updated": "2026-11-16",
+      "links": [
+        "bubble-milk-tea",
+        "boba",
+        "frog-lays-eggs",
+        "origin-dispute",
+        "pearl-vs-boba"
+      ],
+      "backlinks": [
+        "fresh-milk-vs-creamer",
+        "pearl-vs-boba",
+        "bubble-tea-worldwide",
+        "origin-dispute",
+        "bubble-milk-tea",
+        "frog-lays-eggs",
+        "boba"
+      ]
+    },
+    {
+      "slug": "boba",
+      "path": "wiki/term/boba.md",
+      "title": "波霸",
+      "aka": [
+        "boba"
+      ],
+      "category": "term",
+      "summary": "大顆粉圓的叫法，從台南的「波霸奶茶」流行開來，後來還進了英文字典。",
+      "sources": [
+        "raw/2026-11-16-wikipedia-bubble-tea.md",
+        "raw/2026-11-16-wikipedia-tapioca-balls.md"
+      ],
+      "updated": "2026-11-16",
+      "links": [
+        "tapioca-pearl",
+        "pearl-vs-boba",
+        "bubble-tea-worldwide",
+        "bubble-milk-tea"
+      ],
+      "backlinks": [
+        "pearl-vs-boba",
+        "bubble-tea-worldwide",
+        "bubble-milk-tea",
+        "tapioca-pearl"
+      ]
+    },
+    {
+      "slug": "fresh-milk-vs-creamer",
+      "path": "wiki/compare/fresh-milk-vs-creamer.md",
+      "title": "鮮奶 vs 奶精",
+      "aka": [
+        "鮮奶茶",
+        "紅茶拿鐵"
+      ],
+      "category": "compare",
+      "summary": "奶茶可以用鮮乳或奶精調，菜單名稱通常會透露用的是哪一種。",
+      "sources": [
+        "raw/2026-11-16-wikipedia-bubble-tea.md"
+      ],
+      "updated": "2026-11-16",
+      "links": [
+        "bubble-milk-tea",
+        "frog-lays-eggs",
+        "tapioca-pearl"
+      ],
+      "backlinks": [
+        "bubble-milk-tea"
+      ]
+    },
+    {
+      "slug": "jinxuan-vs-ruby",
+      "path": "wiki/compare/jinxuan-vs-ruby.md",
+      "title": "金萱 vs 紅玉",
+      "aka": [],
+      "category": "compare",
+      "summary": "兩個台灣培育的茶樹品種：金萱帶奶香，紅玉帶肉桂與薄荷香。",
+      "sources": [
+        "raw/2026-11-16-wikipedia-jin-xuan.md",
+        "raw/2026-11-16-wikipedia-ruby-black-tea.md"
+      ],
+      "updated": "2026-11-16",
+      "links": [
+        "jin-xuan",
+        "ruby-black-tea"
+      ],
+      "backlinks": [
+        "jin-xuan",
+        "ruby-black-tea"
+      ]
+    },
+    {
+      "slug": "pearl-vs-boba",
+      "path": "wiki/compare/pearl-vs-boba.md",
+      "title": "珍珠 vs 波霸",
+      "aka": [],
+      "category": "compare",
+      "summary": "兩個都是粉圓：「珍珠」來自外觀，「波霸」強調大顆。",
+      "sources": [
+        "raw/2026-11-16-wikipedia-tapioca-balls.md",
+        "raw/2026-11-16-wikipedia-bubble-tea.md"
+      ],
+      "updated": "2026-11-16",
+      "links": [
+        "tapioca-pearl",
+        "boba",
+        "bubble-milk-tea"
+      ],
+      "backlinks": [
+        "bubble-milk-tea",
+        "boba",
+        "tapioca-pearl"
+      ]
+    },
+    {
+      "slug": "bubble-tea-worldwide",
+      "path": "wiki/culture/bubble-tea-worldwide.md",
+      "title": "珍奶走向世界",
+      "aka": [
+        "Bubble tea",
+        "boba"
+      ],
+      "category": "culture",
+      "summary": "1990年代起珍奶跟著移民出國，後來進了英文字典，還有自己的emoji。",
+      "sources": [
+        "raw/2026-11-16-wikipedia-bubble-tea.md"
+      ],
+      "updated": "2026-11-16",
+      "links": [
+        "bubble-milk-tea",
+        "tapioca-pearl",
+        "boba",
+        "origin-dispute"
+      ],
+      "backlinks": [
+        "origin-dispute",
+        "bubble-milk-tea",
+        "boba"
+      ]
+    },
+    {
+      "slug": "origin-dispute",
+      "path": "wiki/culture/origin-dispute.md",
+      "title": "珍奶起源之爭",
+      "aka": [
+        "誰發明了珍珠奶茶"
+      ],
+      "category": "culture",
+      "summary": "台中春水堂和台南翰林茶館都說自己發明珍奶，打了十年官司。",
+      "sources": [
+        "raw/2026-11-16-wikipedia-bubble-tea.md"
+      ],
+      "updated": "2026-11-16",
+      "links": [
+        "bubble-milk-tea",
+        "frog-lays-eggs",
+        "tapioca-pearl",
+        "bubble-tea-worldwide"
+      ],
+      "backlinks": [
+        "bubble-tea-worldwide",
+        "bubble-milk-tea",
+        "frog-lays-eggs",
+        "tapioca-pearl"
+      ]
+    }
+  ],
+  "raw": [
+    {
+      "path": "raw/2026-11-16-wikipedia-bubble-tea.md",
+      "title": "維基百科「珍珠奶茶」條目摘錄",
+      "type": "wikipedia",
+      "url": "https://zh.wikipedia.org/zh-tw/%E7%8F%8D%E7%8F%A0%E5%A5%B6%E8%8C%B6",
+      "retrieved": "2026-11-16",
+      "license": "CC BY-SA 4.0",
+      "ingested": true,
+      "citedBy": [
+        "fresh-milk-vs-creamer",
+        "pearl-vs-boba",
+        "bubble-tea-worldwide",
+        "origin-dispute",
+        "bubble-milk-tea",
+        "boba",
+        "tapioca-pearl"
+      ]
+    },
+    {
+      "path": "raw/2026-11-16-wikipedia-jin-xuan.md",
+      "title": "維基百科「台茶12號」（金萱茶）條目摘錄",
+      "type": "wikipedia",
+      "url": "https://zh.wikipedia.org/zh-tw/%E9%87%91%E8%90%B1%E8%8C%B6",
+      "retrieved": "2026-11-16",
+      "license": "CC BY-SA 4.0",
+      "ingested": true,
+      "citedBy": [
+        "jinxuan-vs-ruby",
+        "jin-xuan"
+      ]
+    },
+    {
+      "path": "raw/2026-11-16-wikipedia-mesona.md",
+      "title": "維基百科「仙草」條目摘錄",
+      "type": "wikipedia",
+      "url": "https://zh.wikipedia.org/zh-tw/%E4%BB%99%E8%8D%89",
+      "retrieved": "2026-11-16",
+      "license": "CC BY-SA 4.0",
+      "ingested": false,
+      "citedBy": []
+    },
+    {
+      "path": "raw/2026-11-16-wikipedia-ruby-black-tea.md",
+      "title": "維基百科「台茶十八號」（紅玉）條目摘錄",
+      "type": "wikipedia",
+      "url": "https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E8%8C%B618%E8%99%9F",
+      "retrieved": "2026-11-16",
+      "license": "CC BY-SA 4.0",
+      "ingested": true,
+      "citedBy": [
+        "jinxuan-vs-ruby",
+        "ruby-black-tea"
+      ]
+    },
+    {
+      "path": "raw/2026-11-16-wikipedia-tapioca-balls.md",
+      "title": "維基百科「粉圓」條目摘錄",
+      "type": "wikipedia",
+      "url": "https://zh.wikipedia.org/zh-tw/%E7%B2%89%E5%9C%93",
+      "retrieved": "2026-11-16",
+      "license": "CC BY-SA 4.0",
+      "ingested": true,
+      "citedBy": [
+        "pearl-vs-boba",
+        "bubble-milk-tea",
+        "frog-lays-eggs",
+        "boba",
+        "tapioca-pearl"
+      ]
+    }
+  ]
+}
