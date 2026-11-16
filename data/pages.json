@@ -20,7 +20,7 @@
       "name": "配料",
       "icon": "⚫",
       "desc": "加進飲料裡的料",
-      "count": 1
+      "count": 2
     },
     {
       "id": "term",
@@ -59,7 +59,8 @@
       "summary": "把粉圓加進奶茶的台灣茶飲，1980年代誕生，現在流行到全世界。",
       "sources": [
         "raw/2026-11-16-wikipedia-bubble-tea.md",
-        "raw/2026-11-16-wikipedia-tapioca-balls.md"
+        "raw/2026-11-16-wikipedia-tapioca-balls.md",
+        "raw/2026-11-16-wikipedia-mesona.md"
       ],
       "updated": "2026-11-16",
       "links": [
@@ -68,7 +69,8 @@
         "boba",
         "origin-dispute",
         "bubble-tea-worldwide",
-        "pearl-vs-boba"
+        "pearl-vs-boba",
+        "mesona"
       ],
       "backlinks": [
         "fresh-milk-vs-creamer",
@@ -77,6 +79,7 @@
         "origin-dispute",
         "frog-lays-eggs",
         "boba",
+        "mesona",
         "tapioca-pearl"
       ]
     },
@@ -99,6 +102,7 @@
       "backlinks": [
         "fresh-milk-vs-creamer",
         "origin-dispute",
+        "mesona",
         "tapioca-pearl"
       ]
     },
@@ -149,6 +153,31 @@
       ]
     },
     {
+      "slug": "mesona",
+      "path": "wiki/topping/mesona.md",
+      "title": "仙草",
+      "aka": [
+        "仙人草",
+        "涼粉草",
+        "Mesona"
+      ],
+      "category": "topping",
+      "summary": "唇形科的草本植物，是燒仙草、仙草凍的原料，也能做成仙草奶茶。",
+      "sources": [
+        "raw/2026-11-16-wikipedia-mesona.md"
+      ],
+      "updated": "2026-11-16",
+      "links": [
+        "tapioca-pearl",
+        "frog-lays-eggs",
+        "bubble-milk-tea"
+      ],
+      "backlinks": [
+        "bubble-milk-tea",
+        "tapioca-pearl"
+      ]
+    },
+    {
       "slug": "tapioca-pearl",
       "path": "wiki/topping/tapioca-pearl.md",
       "title": "粉圓",
@@ -161,7 +190,8 @@
       "summary": "用澱粉做的小圓球，煮熟後晶瑩剔透，就是珍珠奶茶裡的「珍珠」。",
       "sources": [
         "raw/2026-11-16-wikipedia-tapioca-balls.md",
-        "raw/2026-11-16-wikipedia-bubble-tea.md"
+        "raw/2026-11-16-wikipedia-bubble-tea.md",
+        "raw/2026-11-16-wikipedia-mesona.md"
       ],
       "updated": "2026-11-16",
       "links": [
@@ -169,7 +199,8 @@
         "boba",
         "frog-lays-eggs",
         "origin-dispute",
-        "pearl-vs-boba"
+        "pearl-vs-boba",
+        "mesona"
       ],
       "backlinks": [
         "fresh-milk-vs-creamer",
@@ -178,7 +209,8 @@
         "origin-dispute",
         "bubble-milk-tea",
         "frog-lays-eggs",
-        "boba"
+        "boba",
+        "mesona"
       ]
     },
     {
@@ -367,8 +399,12 @@
       "url": "https://zh.wikipedia.org/zh-tw/%E4%BB%99%E8%8D%89",
       "retrieved": "2026-11-16",
       "license": "CC BY-SA 4.0",
-      "ingested": false,
-      "citedBy": []
+      "ingested": true,
+      "citedBy": [
+        "bubble-milk-tea",
+        "mesona",
+        "tapioca-pearl"
+      ]
     },
     {
       "path": "raw/2026-11-16-wikipedia-ruby-black-tea.md",

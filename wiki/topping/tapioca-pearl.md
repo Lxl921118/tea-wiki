@@ -3,7 +3,7 @@ title: 粉圓
 aka: [珍珠, 波霸, 珍珠粉圓]
 category: topping
 summary: 用澱粉做的小圓球，煮熟後晶瑩剔透，就是珍珠奶茶裡的「珍珠」。
-sources: [raw/2026-11-16-wikipedia-tapioca-balls.md, raw/2026-11-16-wikipedia-bubble-tea.md]
+sources: [raw/2026-11-16-wikipedia-tapioca-balls.md, raw/2026-11-16-wikipedia-bubble-tea.md, raw/2026-11-16-wikipedia-mesona.md]
 updated: 2026-11-16
 ---
 粉圓是以澱粉為主要成分的小圓球，本身就是一種台式冰甜品（粉圓冰）。加進[[bubble-milk-tea|珍珠奶茶]]時，大家叫它「珍珠」或「[[boba|波霸]]」。
@@ -39,3 +39,4 @@ updated: 2026-11-16
 - [[pearl-vs-boba]]：同樣是粉圓，為什麼有兩個名字
 - [[bubble-milk-tea]]：粉圓最有名的舞台
 - [[frog-lays-eggs]]：粉圓在夜市的另一種吃法
+- [[mesona]]：另一種配料，仙草凍也會加進刨冰

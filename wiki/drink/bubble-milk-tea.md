@@ -3,7 +3,7 @@ title: 珍珠奶茶
 aka: [波霸奶茶, 珍奶, 粉圓奶茶, Bubble tea]
 category: drink
 summary: 把粉圓加進奶茶的台灣茶飲，1980年代誕生，現在流行到全世界。
-sources: [raw/2026-11-16-wikipedia-bubble-tea.md, raw/2026-11-16-wikipedia-tapioca-balls.md]
+sources: [raw/2026-11-16-wikipedia-bubble-tea.md, raw/2026-11-16-wikipedia-tapioca-balls.md, raw/2026-11-16-wikipedia-mesona.md]
 updated: 2026-11-16
 ---
 珍珠奶茶就是在奶茶裡加入[[tapioca-pearl|粉圓]]的飲料。它在 1980 年代起源於台灣，是台灣最具代表性的手搖飲之一，現在已經流行到世界各地。
@@ -51,3 +51,4 @@ updated: 2026-11-16
 - [[pearl-vs-boba]]：珍珠和波霸到底差在哪
 - [[origin-dispute]]：誰發明了珍珠奶茶
 - [[bubble-tea-worldwide]]：從台灣紅到全世界
+- [[mesona]]：另一種配料，也有做成仙草奶茶
